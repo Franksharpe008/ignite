@@ -1,2 +1,2 @@
-# K2
+# k2 
 Easy Deploy
